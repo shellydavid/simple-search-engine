@@ -35,6 +35,7 @@ src/
 ├── main.py            # FastAPI entrypoint
 ├── routes.py          # API endpoint definition
 ├── search_service.py  # Search logic (indexing, ranking, pagination)
+├── models.py          # Data models
 ├── corpus.json        # Dummy dataset
 └── utils.py           # Helper functions
 ```
